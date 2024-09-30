@@ -1,4 +1,4 @@
-package com.WebfluxFeignStarwars.reactiveApi;
+package com.webflux.reactiveApi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
